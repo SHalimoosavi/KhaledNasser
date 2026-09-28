@@ -1,0 +1,20 @@
+{
+  "name": "Khalid Nasser | Professional Boxer",
+  "short_name": "Khalid Nasser",
+  "start_url": "https://shalimoosavi.github.io/KhaledNasser/",
+  "display": "standalone",
+  "background_color": "#07090c",
+  "theme_color": "#07090c",
+  "icons": [
+    {
+      "src": "https://shalimoosavi.github.io/KhaledNasser/assets/icons/favicon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://shalimoosavi.github.io/KhaledNasser/assets/icons/favicon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

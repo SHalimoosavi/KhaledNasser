@@ -1,0 +1,13 @@
+/* TEAM */
+Site build: SAYANJALI NEXUS / Syed Ali Hasan Moosavi
+Role: Web engineering, technical SEO/AEO/GEO, static-site implementation
+
+/* ATHLETE */
+Khalid Nasser — professional boxer and entrepreneur
+
+/* SOURCES */
+WBC, BoxRec, Pakistan Boxing Council, WBC Asian Boxing Council, Gulf Today, public athlete Instagram.
+
+/* SITE */
+GitHub Pages project: SHalimoosavi/KhaledNasser
+Last build: 28 September 2026
